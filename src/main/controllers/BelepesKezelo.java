@@ -74,7 +74,7 @@ public class BelepesKezelo implements Initializable {
             Logger.getLogger(BelepesKezelo.class.getName()).log(Level.INFO, "Sikerült belépni");
         } else if (username != null && jelszo != null) {
             titleLabel.setText("Töltsd ki a mezőket");
-            titleLabel.setStyle("-fx-background-color:#d32f2f"); //Ha sikertelen a belépés, akkor megváltozik a titleLabel színe pirosra.
+            titleLabel.setStyle("-fx-background-color:#cc3300"); //Ha sikertelen a belépés, akkor megváltozik a titleLabel színe pirosra.
         }  else {
             titleLabel.setText("Hibás próbálkozás");
             titleLabel.setStyle("-fx-background-color:#d32f2f"); //Ha sikertelen a belépés, akkor megváltozik a titleLabel színe pirosra.

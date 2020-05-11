@@ -9,10 +9,10 @@ and open the template in the editor.
 */
 
 .jfx-button {
-    -fx-background-color: #1E90FF;
+    -fx-background-color: #00ff00;
     -fx-text-fill: white;
 }
 
 .jfx-button:hover {
-    -fx-background-color: #0000FF;	
+    -fx-background-color: #009900;
 }
