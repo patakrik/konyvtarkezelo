@@ -1,0 +1,2 @@
+# konyvtarkezelo
+Szoftverfejlesztés féléves feladat. 
